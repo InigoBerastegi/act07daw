@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <users>
-        <user>
-            <id>1</id>
-            <name>Juan Pérez</name>
-            <email>juanperez@example.com</email>
-        </user>
-        <user>
-            <id>2</id>
-            <name>Maria García</name>
-            <email>mariagarcia@example.com</email>
-        </user>
-    </users>
-
+	<cambio01>
     <products>
         <product>
             <id>101</id>
