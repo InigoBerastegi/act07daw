@@ -2,6 +2,19 @@
 <database>
     <users>
 	<cambio01>
+
+	<user>cambio base de tados</user>
+        <user>
+            <id>1</id>
+            <name>Juan Pérez</name>
+            <email>juanperez@example.com</email>
+        </user>
+        <user>
+            <id>2</id>
+            <name>Maria García</name>
+            <email>mariagarcia@example.com</email>
+        </user>
+    </users>
     <products>
         <product>
             <id>101</id>
