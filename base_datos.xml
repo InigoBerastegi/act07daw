@@ -18,6 +18,18 @@
         <product>
             <id>101</id>
             <name>Producto A</name>
+            <price>19.49</price>
+        </product>
+        <product>
+            <id>102</id>
+            <name>Producto B</name>
+            <price>29.99</price>
+        </product>
+    </products>
+    <products>
+        <product>
+            <id>104</id>
+            <name>Producto b</name>
             <price>19.99</price>
         </product>
         <product>
@@ -26,4 +38,6 @@
             <price>29.99</price>
         </product>
     </products>
+        
+
 </database>
